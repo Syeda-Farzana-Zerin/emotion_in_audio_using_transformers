@@ -1,6 +1,3 @@
-x-special/nautilus-clipboard
-copy
-file:///home/zia/Desktop/Emotion.jpg
 
 
 # 🎙️ Speech Emotion Recognition using Pretrained wav2vec2
@@ -19,7 +16,9 @@ The app allows users to select an audio file from emotion-labeled folders, run i
 - ⚡ Lightweight and stable Streamlit UI
 - 🐍 Python 3.8 compatible
 
+## 📸 Screenshot
 
+![Application Screenshot](Emotion.jpg)
 
 ## 📁 Dataset Structure
 
